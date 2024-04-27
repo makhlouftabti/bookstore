@@ -1,6 +1,6 @@
 # bookstore
 Dashboard for admins of bookstore made using Django
-Generate a new SECRET_KEY and put it in settings.py before start the project
+Tutorial :
 1- Install requirements.txt by executing this command :
   $ pip install -r requirements.txt
 2- Generate a secret key and add it in settings.py
